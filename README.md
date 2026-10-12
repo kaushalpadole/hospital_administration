@@ -8,7 +8,9 @@ The objective is to turn the available hospital data into understandable metrics
 
 ## Dashboard
 
-![Hospital Readmission Analysis Dashboard](images/hospital-readmission-dashboard.png)
+Hospital Readmission Analysis Dashboard
+<img width="1630" height="658" alt="image" src="https://github.com/user-attachments/assets/faec4456-0f69-451b-bfd5-3faad888b201" />
+
 
 The dashboard includes KPI cards and PivotCharts for:
 - Total records
