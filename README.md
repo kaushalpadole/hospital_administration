@@ -3,6 +3,8 @@
 ## Project Overview
 This project analyzes hospital encounter data in Excel to explore patterns associated with 30-day readmission and length of stay using PivotTables, PivotCharts, descriptive statistics, and correlation analysis. Findings are descriptive and do not establish causation.
 
+**Google Drive link for Excel file:** https://docs.google.com/spreadsheets/d/17mAUCKmE6O8FUuEP46eb_mUZTIWkA4Yf/edit?usp=drive_link&ouid=106933887791179439291&rtpof=true&sd=true
+
 ## Dashboard
 Hospital Readmission Analysis Dashboard
 <img width="1630" height="658" alt="image" src="https://github.com/user-attachments/assets/877768b6-ec0d-4760-923f-93a842110a38" />
