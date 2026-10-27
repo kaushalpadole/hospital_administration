@@ -6,6 +6,8 @@ This project explores hospital encounter data to understand patterns related to 
 
 The purpose is to turn the available data into practical, descriptive insights that hospital administrators could investigate further. This is an exploratory analytics project: the results show associations and group differences, not proof of cause and effect.
 
+**Google Drive link for Excel file:** https://docs.google.com/spreadsheets/d/15XtnVh7Oaucgz1a6vIqoaP75WhO7qbEQ/edit?usp=drive_link&ouid=106933887791179439291&rtpof=true&sd=true
+
 ## 2. Project Requirements
 
 The project requirements were to:
