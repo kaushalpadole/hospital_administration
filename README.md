@@ -17,8 +17,6 @@ The project requirements were to:
 - Summarize important measures using KPI cards and charts.
 - Present findings, limitations, and recommendations in a clear dashboard and README.
 
-Questions requiring fields not present in the dataset are identified as unavailable rather than answered through assumptions. The predictive-model question was intentionally excluded because this project focuses on descriptive analysis in Excel.
-
 ## 3. Dataset Summary
 
 | Measure | Result |
@@ -46,7 +44,7 @@ For interpretation, `readmitted = 1` means readmitted within 30 days and `readmi
 
 ## 5. Dashboard
 
-![Hospital Readmission Analysis Dashboard](images/hospital-readmission-dashboard.png)
+
 
 The dashboard contains four KPI cards and visualizations covering:
 
@@ -113,32 +111,13 @@ These are **suggestions for further investigation**, not proven interventions fr
 6. **Track follow-up metrics in future work:** If a follow-up program is introduced, monitor 30-day readmission, follow-up completion, medication-review completion, and time to follow-up before and after implementation, using a suitable evaluation design.
 7. **Validate findings before acting:** Check group sizes, compare results across relevant subgroups, and seek clinical/operational review before making policy decisions.
 
-## 9. Questions Not Answered with This Dataset
 
-The following areas are excluded from substantive conclusions because the required data is absent or the work is outside this project's scope:
-
-- Time-based readmission trends — no suitable date/time field.
-- Discharge disposition — field unavailable.
-- Long-term outcomes, mortality, and follow-up outcomes — unavailable.
-- Patient satisfaction — unavailable.
-- Predictive model — intentionally excluded as beyond the scope of this Excel descriptive project.
-- Financial impact — cost and avoidability data unavailable.
-- Measured impact of post-discharge interventions — program participation and outcome data unavailable.
-
-## 10. Conclusion
+## 9. Conclusion
 
 The analysis found an overall readmission proportion of approximately **46.20%** and an average length of stay of approximately **4.40 days**. The diabetes-medication groups have different observed readmission proportions, and medication count has a moderate positive association with length of stay. Several other correlations with readmission are weak or very weak. The findings can guide further questions for hospital teams, but missing data and absent operational fields limit the conclusions that can be drawn.
-
-## Disclaimer
-
-This is an educational analytics project, not a clinical decision-support system. It should not be used to make patient-care decisions. Recommendations are exploratory and should be validated by appropriate clinical and operational teams.
 
 ## Repository Files
 
 - `README.md` — project overview, methods, findings, challenges, and recommendations.
 - `images/hospital-readmission-dashboard.png` — dashboard screenshot.
-- Excel workbook — source analysis and dashboard, uploaded separately to the repository if desired.
-
-## How to Add the Dashboard Image to GitHub
-
-Keep the screenshot at `images/hospital-readmission-dashboard.png` in the same repository as this `README.md`. GitHub will then render the dashboard image in the README preview.
+- Excel workbook link — source analysis and dashboard/
