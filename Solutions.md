@@ -1,27 +1,5 @@
 # Hospital Administration Analytics — Excel Case Study
 
-## Project Overview
-This project analyzes hospital encounter data in Excel to explore patterns associated with 30-day readmission and length of stay using PivotTables, PivotCharts, descriptive statistics, and correlation analysis. Findings are descriptive and do not establish causation.
-
-**Google Drive link for Excel file:** https://docs.google.com/spreadsheets/d/15XtnVh7Oaucgz1a6vIqoaP75WhO7qbEQ/edit?usp=drive_link&ouid=106933887791179439291&rtpof=true&sd=true
-
-## Dashboard
-Hospital Readmission Analysis Dashboard
-<img width="1630" height="658" alt="image" src="https://github.com/user-attachments/assets/877768b6-ec0d-4760-923f-93a842110a38" />
-
-
-## Dataset Summary
-
-| Metric | Result |
-|---|---:|
-| Total rows / records | 66,587 |
-| Unique patients | 39,650 |
-| Overall readmission proportion | 46.20% |
-| Average length of stay | 4.40 days |
-| Weight field missing | Approximately 97% |
-
-`readmitted = 1` represents readmission within 30 days; `readmitted = 0` represents no readmission within 30 days.
-
 ## Answers and Findings
 
 ### Basic Questions
@@ -172,6 +150,3 @@ Time trends, discharge disposition, long-term outcomes, patient satisfaction, fi
 - PivotTables and PivotCharts
 - Excel formulas including `AVERAGE` and `CORREL`
 - Data grouping, sorting, descriptive analysis, KPI cards, and dashboard formatting
-
-## Disclaimer
-This is an educational analytics project, not a clinical decision-support system. It should not be used to make patient-care decisions.
