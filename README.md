@@ -46,7 +46,8 @@ For interpretation, `readmitted = 1` means readmitted within 30 days and `readmi
 
 ## 5. Dashboard
 
-<img width="1630" height="658" alt="image" src="https://github.com/user-attachments/assets/4a375a14-024e-43f3-b6b1-aedb3ab64cf7" />
+<img width="1582" height="671" alt="image" src="https://github.com/user-attachments/assets/de014e41-7161-4682-876c-fd56ccd784d8" />
+
 
 
 
